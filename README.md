@@ -56,7 +56,7 @@ A PHP/MySQL application that replaces the CCSD search functionality by scraping 
 
 2. **Import Database Schema**:
    ```bash
-   mysql -u root -p ccsd_search < config/database.sql
+   mysql -u root -p ccsd_search < _mysql_dumps/ccsd_search.sql
    ```
 
 3. **Verify Database Creation**:
