@@ -112,16 +112,12 @@ $searchQuery = $_GET['addsearch'] ?? '';
                 <label for="addsearch" class="hidden">Search</label>
                 <input type="text" name="addsearch" id="addsearch" class="addsearch" 
                        value="<?= htmlspecialchars($searchQuery) ?>" 
-                       placeholder="Search CCSD websites..."
+                       placeholder="Search..."
                        autofocus>
                 <input type="submit" class="search-btn" value="Search">
             </form>
         </div>
-        
-        <div class="content">
-            <p>Search across all configured CCSD websites for information, documents, and resources.</p>
-            <p>Enter your search terms above to get started.</p>
-        </div>
+
     </div>
 </body>
 </html>
