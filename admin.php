@@ -37,8 +37,8 @@ if ($_POST) {
             case 'add_website':
                 $name = $_POST['name'] ?? '';
                 $url = $_POST['url'] ?? '';
-                $maxDepth = (int)($_POST['max_depth'] ?? 3);
-                $frequency = $_POST['scrape_frequency'] ?? '3600';
+                $maxDepth = (int)($_POST['max_depth'] ?? 10); // Default to 10 for comprehensive scraping
+                $frequency = $_POST['scrape_frequency'] ?? 'unlimited'; // Default to unlimited
                 
                 // Handle unlimited frequency
                 $frequencyValue = ($frequency === 'unlimited') ? -1 : (int)$frequency;
@@ -56,7 +56,24 @@ if ($_POST) {
                             'scrape_frequency' => $frequencyValue,
                             'created_by' => $_SESSION['user_id']
                         ]);
-                        $message = 'Website added successfully!';
+                        
+                        // Get the newly inserted website ID
+                        $newWebsiteId = $db->query("SELECT LAST_INSERT_ID() as id")[0]['id'];
+                        
+                        // Automatically start comprehensive scraping
+                        $scraper = new Scraper();
+                        
+                        echo "<script>
+                            document.addEventListener('DOMContentLoaded', function() {
+                                setTimeout(function() {
+                                    if (confirm('Website added successfully! Start comprehensive scraping now? This will ensure all content is indexed.')) {
+                                        scrapeSingleWebsite({$newWebsiteId}, '{$name}');
+                                    }
+                                }, 500);
+                            });
+                        </script>";
+                        
+                        $message = 'Website added successfully! Comprehensive scraping will start automatically.';
                     } catch (Exception $e) {
                         $message = 'Error adding website: ' . $e->getMessage();
                     }
@@ -267,6 +284,46 @@ if ($_POST) {
                 } else {
                     echo json_encode(['success' => false, 'error' => 'No active websites found']);
                 }
+                exit;
+                
+            case 'scrape_single_ajax':
+                // Handle AJAX single website scrape request
+                $sessionId = $_POST['session_id'] ?? '';
+                $websiteId = (int)($_POST['website_id'] ?? 0);
+                
+                if (empty($sessionId) || $websiteId <= 0) {
+                    echo json_encode(['success' => false, 'error' => 'Invalid session ID or website ID']);
+                    exit;
+                }
+                
+                // Get the website
+                $website = $db->fetchOne("SELECT * FROM websites WHERE id = ? AND status = 'active'", [$websiteId]);
+                if (!$website) {
+                    echo json_encode(['success' => false, 'error' => 'Website not found or inactive']);
+                    exit;
+                }
+                
+                // Initialize progress for single website
+                $db->insert('scrape_progress', [
+                    'session_id' => $sessionId,
+                    'status' => 'starting',
+                    'total_websites' => 100, // Estimated total pages for single website
+                    'current_index' => 0,
+                    'completed_count' => 0,
+                    'failed_count' => 0,
+                    'total_new_pages' => 0,
+                    'percentage' => 0,
+                    'current_website' => $website['name'],
+                    'current_url' => $website['url'],
+                    'message' => 'Initializing scrape process for ' . $website['name'] . '...'
+                ]);
+                
+                // Start background scraping process for single website
+                $command = "php scrape_background_single.php " . escapeshellarg($sessionId) . " " . escapeshellarg($websiteId) . " > /dev/null 2>&1 &";
+                exec($command);
+                
+                // Return success to start polling
+                echo json_encode(['success' => true, 'session_id' => $sessionId, 'website_id' => $websiteId]);
                 exit;
                 
             case 'cancel_scrape':
@@ -657,7 +714,8 @@ $stats = $db->fetchOne("
                         </div>
                         <div class="form-group">
                             <label for="max_depth">Max Depth:</label>
-                            <input type="number" id="max_depth" name="max_depth" value="3" min="1" max="10">
+                            <input type="number" id="max_depth" name="max_depth" value="10" min="1" max="50">
+                            <small style="color: #666; display: block; margin-top: 5px;">Recommended: 10 for subdomains, 50 for main sites</small>
                         </div>
                         <div class="form-group">
                             <label for="scrape_frequency">Scrape Frequency:</label>
@@ -666,12 +724,12 @@ $stats = $db->fetchOne("
                                 <option value="300">5 minutes</option>
                                 <option value="900">15 minutes</option>
                                 <option value="1800">30 minutes</option>
-                                <option value="3600" selected>1 hour</option>
+                                <option value="3600">1 hour</option>
                                 <option value="7200">2 hours</option>
                                 <option value="21600">6 hours</option>
                                 <option value="43200">12 hours</option>
                                 <option value="86400">24 hours</option>
-                                <option value="unlimited">Unlimited (No auto-scrape)</option>
+                                <option value="unlimited" selected>Unlimited (No auto-scrape) - Recommended</option>
                             </select>
                         </div>
                     </div>
@@ -715,11 +773,7 @@ $stats = $db->fetchOne("
                             <td><?= $website['last_scraped'] ? date('M j, Y H:i', strtotime($website['last_scraped'])) : 'Never' ?></td>
                             <td><?= htmlspecialchars($website['created_by_name'] ?? 'Unknown') ?></td>
                             <td>
-                                <!-- <form method="POST" style="display: inline-block; margin-right: 5px;">
-                                    <input type="hidden" name="action" value="scrape_website">
-                                    <input type="hidden" name="website_id" value="<?= $website['id'] ?>">
-                                    <button type="submit" class="btn-scrape" onclick="return confirm('Start scraping <?= htmlspecialchars($website['name']) ?>? This may take a few minutes.')">Scrape</button>
-                                </form> -->
+                                <button type="button" class="btn-scrape" style="margin-right: 5px;" onclick="scrapeSingleWebsite(<?= $website['id'] ?>, '<?= htmlspecialchars($website['name'], ENT_QUOTES) ?>')">Scrape</button>
                                 <button type="button" class="btn-edit" style="margin-right: 5px;" onclick="editWebsite(<?= $website['id'] ?>, '<?= htmlspecialchars($website['name'], ENT_QUOTES) ?>', '<?= htmlspecialchars($website['url'], ENT_QUOTES) ?>', <?= $website['max_depth'] ?>, <?= $website['scrape_frequency'] ?>)">Edit</button>
                                 <form method="POST" style="display: inline-block;">
                                     <input type="hidden" name="action" value="delete_website">
@@ -1096,6 +1150,56 @@ $stats = $db->fetchOne("
                 
                 hideProgress();
             }
+        }
+
+        function scrapeSingleWebsite(websiteId, websiteName) {
+            if (!confirm(`Start scraping ${websiteName}? This may take a few minutes.`)) {
+                return;
+            }
+
+            // Show progress bar
+            document.getElementById('progress-container').style.display = 'block';
+            
+            // Generate session ID
+            currentSessionId = 'scrape_single_' + Date.now() + '_' + Math.random().toString(36).substr(2, 9);
+            
+            // Reset progress for single website
+            updateProgress({
+                current_index: 0,
+                total_websites: 100, // Estimated total pages
+                percentage: 0,
+                current_website: websiteName,
+                current_url: 'Preparing to start...',
+                completed_count: 0,
+                failed_count: 0,
+                total_new_pages: 0
+            });
+            
+            // Start scraping with AJAX
+            const formData = new FormData();
+            formData.append('action', 'scrape_single_ajax');
+            formData.append('website_id', websiteId);
+            formData.append('session_id', currentSessionId);
+            
+            fetch('admin.php', {
+                method: 'POST',
+                body: formData
+            })
+            .then(response => response.json())
+            .then(data => {
+                if (data.success) {
+                    // Start polling for progress
+                    startProgressPolling();
+                } else {
+                    alert('Failed to start scraping: ' + data.error);
+                    hideProgress();
+                }
+            })
+            .catch(error => {
+                console.error('Error:', error);
+                alert('Failed to start scraping');
+                hideProgress();
+            });
         }
 
         // Edit website functions

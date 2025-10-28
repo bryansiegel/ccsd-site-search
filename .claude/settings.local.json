@@ -9,7 +9,8 @@
       "Bash(rm:*)",
       "Bash(mysql:*)",
       "Bash(timeout:*)",
-      "Bash(grep:*)"
+      "Bash(grep:*)",
+      "Bash(chmod:*)"
     ],
     "deny": []
   }

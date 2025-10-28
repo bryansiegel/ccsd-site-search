@@ -1,10 +1,21 @@
 <?php
-require_once 'vendor/autoload.php';
+// Simple logout without requiring database connection
+session_start();
 
-use CCSD\Search\Auth;
+// Clear all session variables
+$_SESSION = [];
 
-$auth = new Auth();
-$auth->logout();
+// Delete the session cookie
+if (ini_get("session.use_cookies")) {
+    $params = session_get_cookie_params();
+    setcookie(session_name(), '', time() - 42000,
+        $params["path"], $params["domain"],
+        $params["secure"], $params["httponly"]
+    );
+}
+
+// Destroy the session
+session_destroy();
 
 header('Location: login.php');
 exit;

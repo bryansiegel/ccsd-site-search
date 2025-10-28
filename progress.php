@@ -40,7 +40,7 @@ try {
             'current_website' => $progress['current_website'],
             'current_index' => (int)$progress['current_index'],
             'total_websites' => (int)$progress['total_websites'],
-            'percentage' => round(($progress['current_index'] / max(1, $progress['total_websites'])) * 100, 1),
+            'percentage' => round((float)$progress['percentage'], 1),
             'current_url' => $progress['current_url'],
             'completed_count' => (int)$progress['completed_count'],
             'failed_count' => (int)$progress['failed_count'],

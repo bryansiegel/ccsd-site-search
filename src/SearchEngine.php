@@ -25,16 +25,20 @@ class SearchEngine
         $sql = "
             SELECT sp.*, w.name as website_name, w.base_domain,
                    MATCH(sp.title, sp.content, sp.meta_description, sp.keywords) AGAINST (? IN BOOLEAN MODE) as relevance_score,
-                   CASE WHEN w.base_domain = 'ccsd.net' THEN 1 ELSE 0 END as is_ccsd_main
+                   CASE WHEN w.base_domain = 'ccsd.net' THEN 1 ELSE 0 END as is_ccsd_main,
+                   CASE WHEN sp.url LIKE ? THEN 1 ELSE 0 END as url_match
             FROM scraped_pages sp
             JOIN websites w ON sp.website_id = w.id
             WHERE w.status = 'active' 
             AND MATCH(sp.title, sp.content, sp.meta_description, sp.keywords) AGAINST (? IN BOOLEAN MODE)
-            ORDER BY is_ccsd_main DESC, relevance_score DESC, sp.updated_at DESC
+            ORDER BY url_match DESC, is_ccsd_main DESC, relevance_score DESC, sp.updated_at DESC
             LIMIT ? OFFSET ?
         ";
         
-        $results = $this->db->fetchAll($sql, [$searchTerms, $searchTerms, $perPage, $offset]);
+        // Create URL search pattern from original query
+        $urlPattern = '%' . str_replace(' ', '%', strtolower(trim($query))) . '%';
+        
+        $results = $this->db->fetchAll($sql, [$searchTerms, $urlPattern, $searchTerms, $perPage, $offset]);
         
         $countSql = "
             SELECT COUNT(*) as total

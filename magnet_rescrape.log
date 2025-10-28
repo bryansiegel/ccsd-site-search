@@ -1,0 +1,11 @@
+Re-scraping magnet.ccsd.net comprehensively...
+Current time: 2025-10-28 18:29:28
+Website ID: 12
+Current max_depth: 10
+Clearing existing magnet.ccsd.net data...
+Starting scrape of magnet.ccsd.net with max depth 10
+Visited 10 pages, current depth: 8, URL: https://magnet.ccsd.net/find-a-magnet-school
+Visited 20 pages, current depth: 9, URL: https://magnet.ccsd.net/wp-content/uploads/2025/10/ES-Full-Catalog.pdf
+Visited 30 pages, current depth: 5, URL: https://magnet.ccsd.net/wp-content/uploads/2024/07/first-semester-english.png
+Scraping error: cURL error 28: Operation timed out after 60000 milliseconds with 150535572 out of 215289032 bytes received (see https://curl.haxx.se/libcurl/c/libcurl-errors.html) for https://magnet.ccsd.net/videos/magnet-promo.mp4
+Pages scraped before error: 32

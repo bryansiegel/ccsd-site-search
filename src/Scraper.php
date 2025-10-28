@@ -71,6 +71,14 @@ class Scraper
         return $normalized;
     }
     
+    private $progressCallback = null;
+    private $totalPagesEstimate = 100; // Reasonable estimate for progress calculation
+    
+    public function setProgressCallback(callable $callback): void
+    {
+        $this->progressCallback = $callback;
+    }
+    
     public function scrapeWebsite(int $websiteId): void
     {
         $website = $this->db->fetchOne("SELECT * FROM websites WHERE id = ?", [$websiteId]);
@@ -108,6 +116,22 @@ class Scraper
         
         if (count($this->visited) % 10 == 0) {
             echo "Visited " . count($this->visited) . " pages, current depth: $currentDepth, URL: $normalizedUrl\n";
+        }
+        
+        // Call progress callback if set (every 5 pages, or for first few pages)
+        if ($this->progressCallback && (count($this->visited) % 5 == 0 || count($this->visited) <= 10)) {
+            // Dynamic progress estimation based on depth and pages found
+            $depthProgress = min(90, ($currentDepth / $maxDepth) * 60); // Depth contributes up to 60%
+            $pageProgress = min(35, (count($this->visited) / $this->totalPagesEstimate) * 35); // Pages contribute up to 35%
+            $percentage = min(95, $depthProgress + $pageProgress);
+            
+            call_user_func($this->progressCallback, [
+                'visited_count' => count($this->visited),
+                'current_url' => $normalizedUrl,
+                'current_depth' => $currentDepth,
+                'max_depth' => $maxDepth,
+                'percentage' => $percentage
+            ]);
         }
         
         try {
