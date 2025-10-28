@@ -1,0 +1,26 @@
+{
+    "name": "ccsd/site-search",
+    "description": "CCSD Site Search Application - PHP/MySQL web scraping and search system",
+    "type": "project",
+    "require": {
+        "php": ">=8.0",
+        "guzzlehttp/guzzle": "^7.0",
+        "symfony/dom-crawler": "^6.0",
+        "symfony/css-selector": "^6.0",
+        "vlucas/phpdotenv": "^5.0",
+        "twig/twig": "^3.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^9.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "CCSD\\Search\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "CCSD\\Search\\Tests\\": "tests/"
+        }
+    }
+}

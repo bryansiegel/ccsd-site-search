@@ -1,0 +1,3459 @@
+Starting comprehensive scrape of ccsd.net...
+Current time: 2025-10-28 17:38:50
+Clearing existing ccsd.net data...
+Starting scrape of ccsd.net with max depth 50
+Visited 10 pages, current depth: 8, URL: https://ccsd.net/district/directory
+Visited 20 pages, current depth: 16, URL: https://ccsd.net/schools/websites
+Scraping error for https://ccsd.net/district/info: Client error: `GET https://ccsd.net/district/info/?students` resulted in a `403 Forbidden` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Visited 30 pages, current depth: 24, URL: https://ccsd.net/employees
+Visited 40 pages, current depth: 30, URL: https://ccsd.net/parents/ab195.php
+Visited 50 pages, current depth: 40, URL: https://ccsd.net/employees/prospective/descriptions
+Visited 60 pages, current depth: 49, URL: https://ccsd.net/divisions/human-resources-division
+Visited 70 pages, current depth: 50, URL: https://ccsd.net/employees/current/resources#teacher
+Visited 80 pages, current depth: 50, URL: https://ccsd.net/trustees/details/C
+Visited 90 pages, current depth: 50, URL: https://ccsd.net/departments/government-affairs
+Visited 100 pages, current depth: 50, URL: https://ccsd.net/divisions/human-resources-division/contracting-services
+Visited 110 pages, current depth: 50, URL: https://ccsd.net/district/info/title-ix.php
+Visited 120 pages, current depth: 49, URL: https://ccsd.net/employees/resources/pdf/site-management-reports/site_management_report-22-23.pdf
+Visited 130 pages, current depth: 49, URL: https://ccsd.net/employees/resources/pdf/salary-info/LicensedSalaryTable-FY2024-Benefits.pdf
+Visited 140 pages, current depth: 49, URL: https://ccsd.net/employees/resources/pdf/salary-info/2025-2026Title1-List.pdf
+Visited 150 pages, current depth: 49, URL: https://ccsd.net/employees/resources/pdf/esea_agreement.pdf
+Visited 160 pages, current depth: 48, URL: https://ccsd.net/resources/employee-benefits/2023-Benefits-Guide-HMO.pdf
+Visited 170 pages, current depth: 48, URL: https://ccsd.net/resources/employee-benefits/2023-CCSD-EAP-Benefits-Highlights-Flyer.pdf
+Visited 180 pages, current depth: 49, URL: https://ccsd.net/departments/employee-benefits
+Scraping error for https://ccsd.net/employees/prospective/opportunities: Client error: `GET https://ccsd.net/employees/prospective/opportunities` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Visited 190 pages, current depth: 44, URL: https://ccsd.net/employees/current/employment/health#Group
+Scraping error for https://ccsd.net/employees/current/sick-leave: Client error: `GET https://ccsd.net/employees/current/sick-leave` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/employees/current/fmla: Client error: `GET https://ccsd.net/employees/current/fmla` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/employees/current/leave-of-absence.php: Client error: `GET https://ccsd.net/employees/current/leave-of-absence.php` resulted in a `404 Not Found` response:
+File not found.
+
+
+Scraping error for https://ccsd.net/employees/prospective/administrators: Client error: `GET https://ccsd.net/employees/prospective/administrators` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Visited 200 pages, current depth: 41, URL: https://ccsd.net/employees/prospective/licensed
+Scraping error for https://ccsd.net/employees/prospective/licensed: Client error: `GET https://ccsd.net/employees/prospective/licensed` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/employees/prospective/support-staff: Client error: `GET https://ccsd.net/employees/prospective/support-staff` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/departments/schools-directory.php: Client error: `GET https://ccsd.net/departments/schools-directory.php` resulted in a `404 Not Found` response:
+File not found.
+
+
+Scraping error for https://ccsd.net/departments/admin-directory.php: Client error: `GET https://ccsd.net/departments/admin-directory.php` resulted in a `404 Not Found` response:
+File not found.
+
+
+Visited 210 pages, current depth: 38, URL: https://ccsd.net/departments/food-service/free-reduced-rates-by-school
+Visited 220 pages, current depth: 48, URL: https://ccsd.net/departments/food-service/share-tables
+Visited 230 pages, current depth: 37, URL: https://ccsd.net/district/grading-reform-initiative/index.php
+Visited 240 pages, current depth: 35, URL: https://ccsd.net/district/policies-regulations/comments/consideration
+Visited 250 pages, current depth: 38, URL: https://ccsd.net/district/policies-regulations/notices/r-2130-district-organizat.pdf
+Scraping error for https://ccsd.net/district/pdf/0101_P.pdf: Client error: `GET https://ccsd.net/district/pdf/0101_P.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/0210_P.pdf: Client error: `GET https://ccsd.net/district/pdf/0210_P.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/0500_P.pdf: Client error: `GET https://ccsd.net/district/pdf/0500_P.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/1100_P.pdf: Client error: `GET https://ccsd.net/district/pdf/1100_P.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/1101_P.pdf: Client error: `GET https://ccsd.net/district/pdf/1101_P.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/1110_P.pdf: Client error: `GET https://ccsd.net/district/pdf/1110_P.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Visited 260 pages, current depth: 33, URL: https://ccsd.net/district/pdf/1110_R.pdf
+Scraping error for https://ccsd.net/district/pdf/1110_R.pdf: Client error: `GET https://ccsd.net/district/pdf/1110_R.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/1120_P.pdf: Client error: `GET https://ccsd.net/district/pdf/1120_P.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/1121_R.pdf: Client error: `GET https://ccsd.net/district/pdf/1121_R.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/1130_P.pdf: Client error: `GET https://ccsd.net/district/pdf/1130_P.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/1140_P.pdf: Client error: `GET https://ccsd.net/district/pdf/1140_P.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/1140.1_R.pdf: Client error: `GET https://ccsd.net/district/pdf/1140.1_R.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/1211_R.pdf: Client error: `GET https://ccsd.net/district/pdf/1211_R.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/1212_R.pdf: Client error: `GET https://ccsd.net/district/pdf/1212_R.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/1213_P.pdf: Client error: `GET https://ccsd.net/district/pdf/1213_P.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/1213.1_R.pdf: Client error: `GET https://ccsd.net/district/pdf/1213.1_R.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Visited 270 pages, current depth: 33, URL: https://ccsd.net/district/pdf/1214_P.pdf
+Scraping error for https://ccsd.net/district/pdf/1214_P.pdf: Client error: `GET https://ccsd.net/district/pdf/1214_P.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/1221_P.pdf: Client error: `GET https://ccsd.net/district/pdf/1221_P.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/1221_R.pdf: Client error: `GET https://ccsd.net/district/pdf/1221_R.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/1222_P.pdf: Client error: `GET https://ccsd.net/district/pdf/1222_P.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/1222_R.pdf: Client error: `GET https://ccsd.net/district/pdf/1222_R.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/1223_P.pdf: Client error: `GET https://ccsd.net/district/pdf/1223_P.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/1223_R.pdf: Client error: `GET https://ccsd.net/district/pdf/1223_R.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/1232_P.pdf: Client error: `GET https://ccsd.net/district/pdf/1232_P.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/1232_R.pdf: Client error: `GET https://ccsd.net/district/pdf/1232_R.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/1310_P.pdf: Client error: `GET https://ccsd.net/district/pdf/1310_P.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Visited 280 pages, current depth: 33, URL: https://ccsd.net/district/pdf/1311_P.pdf
+Scraping error for https://ccsd.net/district/pdf/1311_P.pdf: Client error: `GET https://ccsd.net/district/pdf/1311_P.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/1320_P.pdf: Client error: `GET https://ccsd.net/district/pdf/1320_P.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/1410_P.pdf: Client error: `GET https://ccsd.net/district/pdf/1410_P.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/1410_R.pdf: Client error: `GET https://ccsd.net/district/pdf/1410_R.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/1411_P.pdf: Client error: `GET https://ccsd.net/district/pdf/1411_P.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/2130_P.pdf: Client error: `GET https://ccsd.net/district/pdf/2130_P.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/2130_R.pdf: Client error: `GET https://ccsd.net/district/pdf/2130_R.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/2310_P.pdf: Client error: `GET https://ccsd.net/district/pdf/2310_P.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/2310_R.pdf: Client error: `GET https://ccsd.net/district/pdf/2310_R.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/2410_P.pdf: Client error: `GET https://ccsd.net/district/pdf/2410_P.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Visited 290 pages, current depth: 33, URL: https://ccsd.net/district/pdf/2500_R.pdf
+Scraping error for https://ccsd.net/district/pdf/2500_R.pdf: Client error: `GET https://ccsd.net/district/pdf/2500_R.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/2500.1_R.pdf: Client error: `GET https://ccsd.net/district/pdf/2500.1_R.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/2500.2_R.pdf: Client error: `GET https://ccsd.net/district/pdf/2500.2_R.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/3100_P.pdf: Client error: `GET https://ccsd.net/district/pdf/3100_P.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/3100_R.pdf: Client error: `GET https://ccsd.net/district/pdf/3100_R.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/3110_R.pdf: Client error: `GET https://ccsd.net/district/pdf/3110_R.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/3130_R.pdf: Client error: `GET https://ccsd.net/district/pdf/3130_R.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/3210_R.pdf: Client error: `GET https://ccsd.net/district/pdf/3210_R.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/3211_R.pdf: Client error: `GET https://ccsd.net/district/pdf/3211_R.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/3212_R.pdf: Client error: `GET https://ccsd.net/district/pdf/3212_R.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Visited 300 pages, current depth: 33, URL: https://ccsd.net/district/pdf/3213_R.pdf
+Scraping error for https://ccsd.net/district/pdf/3213_R.pdf: Client error: `GET https://ccsd.net/district/pdf/3213_R.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/3214_R.pdf: Client error: `GET https://ccsd.net/district/pdf/3214_R.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/3221_R.pdf: Client error: `GET https://ccsd.net/district/pdf/3221_R.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/3222_R.pdf: Client error: `GET https://ccsd.net/district/pdf/3222_R.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/3230_R.pdf: Client error: `GET https://ccsd.net/district/pdf/3230_R.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/3231_R.pdf: Client error: `GET https://ccsd.net/district/pdf/3231_R.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/3232_R.pdf: Client error: `GET https://ccsd.net/district/pdf/3232_R.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/3233_R.pdf: Client error: `GET https://ccsd.net/district/pdf/3233_R.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/3241_R.pdf: Client error: `GET https://ccsd.net/district/pdf/3241_R.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/3310_R.pdf: Client error: `GET https://ccsd.net/district/pdf/3310_R.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Visited 310 pages, current depth: 33, URL: https://ccsd.net/district/pdf/3311_R.pdf
+Scraping error for https://ccsd.net/district/pdf/3311_R.pdf: Client error: `GET https://ccsd.net/district/pdf/3311_R.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/3312_R.pdf: Client error: `GET https://ccsd.net/district/pdf/3312_R.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/3313_R.pdf: Client error: `GET https://ccsd.net/district/pdf/3313_R.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/3314_R.pdf: Client error: `GET https://ccsd.net/district/pdf/3314_R.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/3315_R.pdf: Client error: `GET https://ccsd.net/district/pdf/3315_R.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/3316_R.pdf: Client error: `GET https://ccsd.net/district/pdf/3316_R.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/3317_R.pdf: Client error: `GET https://ccsd.net/district/pdf/3317_R.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/3320_R.pdf: Client error: `GET https://ccsd.net/district/pdf/3320_R.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/3330_R.pdf: Client error: `GET https://ccsd.net/district/pdf/3330_R.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/3410_R.pdf: Client error: `GET https://ccsd.net/district/pdf/3410_R.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Visited 320 pages, current depth: 33, URL: https://ccsd.net/district/pdf/3420_R.pdf
+Scraping error for https://ccsd.net/district/pdf/3420_R.pdf: Client error: `GET https://ccsd.net/district/pdf/3420_R.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/3431_R.pdf: Client error: `GET https://ccsd.net/district/pdf/3431_R.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/3432_R.pdf: Client error: `GET https://ccsd.net/district/pdf/3432_R.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/3432.1_R.pdf: Client error: `GET https://ccsd.net/district/pdf/3432.1_R.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/3433_R.pdf: Client error: `GET https://ccsd.net/district/pdf/3433_R.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/3511_R.pdf: Client error: `GET https://ccsd.net/district/pdf/3511_R.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/3520_R.pdf: Client error: `GET https://ccsd.net/district/pdf/3520_R.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/3530_R.pdf: Client error: `GET https://ccsd.net/district/pdf/3530_R.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/3531_R.pdf: Client error: `GET https://ccsd.net/district/pdf/3531_R.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/3532_R.pdf: Client error: `GET https://ccsd.net/district/pdf/3532_R.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Visited 330 pages, current depth: 33, URL: https://ccsd.net/district/pdf/3533_R.pdf
+Scraping error for https://ccsd.net/district/pdf/3533_R.pdf: Client error: `GET https://ccsd.net/district/pdf/3533_R.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/3534_R.pdf: Client error: `GET https://ccsd.net/district/pdf/3534_R.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/3535_R.pdf: Client error: `GET https://ccsd.net/district/pdf/3535_R.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/3536_R.pdf: Client error: `GET https://ccsd.net/district/pdf/3536_R.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/3537_R.pdf: Client error: `GET https://ccsd.net/district/pdf/3537_R.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/3538_P.pdf: Client error: `GET https://ccsd.net/district/pdf/3538_P.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/3538_R.pdf: Client error: `GET https://ccsd.net/district/pdf/3538_R.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/3540_R.pdf: Client error: `GET https://ccsd.net/district/pdf/3540_R.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/3610_R.pdf: Client error: `GET https://ccsd.net/district/pdf/3610_R.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/3611_R.pdf: Client error: `GET https://ccsd.net/district/pdf/3611_R.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Visited 340 pages, current depth: 33, URL: https://ccsd.net/district/pdf/3612_R.pdf
+Scraping error for https://ccsd.net/district/pdf/3612_R.pdf: Client error: `GET https://ccsd.net/district/pdf/3612_R.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/3613_P.pdf: Client error: `GET https://ccsd.net/district/pdf/3613_P.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/3613_R.pdf: Client error: `GET https://ccsd.net/district/pdf/3613_R.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/3613.1_R.pdf: Client error: `GET https://ccsd.net/district/pdf/3613.1_R.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/3613.2_R.pdf: Client error: `GET https://ccsd.net/district/pdf/3613.2_R.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/3620_R.pdf: Client error: `GET https://ccsd.net/district/pdf/3620_R.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/3621_R.pdf: Client error: `GET https://ccsd.net/district/pdf/3621_R.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/3910_R.pdf: Client error: `GET https://ccsd.net/district/pdf/3910_R.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/3911_R.pdf: Client error: `GET https://ccsd.net/district/pdf/3911_R.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/3912_R.pdf: Client error: `GET https://ccsd.net/district/pdf/3912_R.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Visited 350 pages, current depth: 33, URL: https://ccsd.net/district/pdf/3990_R.pdf
+Scraping error for https://ccsd.net/district/pdf/3990_R.pdf: Client error: `GET https://ccsd.net/district/pdf/3990_R.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/3991_R.pdf: Client error: `GET https://ccsd.net/district/pdf/3991_R.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/4100_P.pdf: Client error: `GET https://ccsd.net/district/pdf/4100_P.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/4100_R.pdf: Client error: `GET https://ccsd.net/district/pdf/4100_R.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/4110_P.pdf: Client error: `GET https://ccsd.net/district/pdf/4110_P.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/4110_R.pdf: Client error: `GET https://ccsd.net/district/pdf/4110_R.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/4111_P.pdf: Client error: `GET https://ccsd.net/district/pdf/4111_P.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/4111_R.pdf: Client error: `GET https://ccsd.net/district/pdf/4111_R.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/4113_P.pdf: Client error: `GET https://ccsd.net/district/pdf/4113_P.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/4113_R.pdf: Client error: `GET https://ccsd.net/district/pdf/4113_R.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Visited 360 pages, current depth: 33, URL: https://ccsd.net/district/pdf/4113.1_R.pdf
+Scraping error for https://ccsd.net/district/pdf/4113.1_R.pdf: Client error: `GET https://ccsd.net/district/pdf/4113.1_R.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/4114_R.pdf: Client error: `GET https://ccsd.net/district/pdf/4114_R.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/4115_R.pdf: Client error: `GET https://ccsd.net/district/pdf/4115_R.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/4116_P.pdf: Client error: `GET https://ccsd.net/district/pdf/4116_P.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/4116_R.pdf: Client error: `GET https://ccsd.net/district/pdf/4116_R.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/4120_P.pdf: Client error: `GET https://ccsd.net/district/pdf/4120_P.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/4120_R.pdf: Client error: `GET https://ccsd.net/district/pdf/4120_R.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/4121_R.pdf: Client error: `GET https://ccsd.net/district/pdf/4121_R.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/4122_R.pdf: Client error: `GET https://ccsd.net/district/pdf/4122_R.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/4123_P.pdf: Client error: `GET https://ccsd.net/district/pdf/4123_P.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Visited 370 pages, current depth: 33, URL: https://ccsd.net/district/pdf/4123_R.pdf
+Scraping error for https://ccsd.net/district/pdf/4123_R.pdf: Client error: `GET https://ccsd.net/district/pdf/4123_R.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/4124_R.pdf: Client error: `GET https://ccsd.net/district/pdf/4124_R.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/4125_R.pdf: Client error: `GET https://ccsd.net/district/pdf/4125_R.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/4125.1_R.pdf: Client error: `GET https://ccsd.net/district/pdf/4125.1_R.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/4126_R.pdf: Client error: `GET https://ccsd.net/district/pdf/4126_R.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/4127_R.pdf: Client error: `GET https://ccsd.net/district/pdf/4127_R.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/4130_R.pdf: Client error: `GET https://ccsd.net/district/pdf/4130_R.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/4140_P.pdf: Client error: `GET https://ccsd.net/district/pdf/4140_P.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/4141_R.pdf: Client error: `GET https://ccsd.net/district/pdf/4141_R.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/4142_R.pdf: Client error: `GET https://ccsd.net/district/pdf/4142_R.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Visited 380 pages, current depth: 33, URL: https://ccsd.net/district/pdf/4150_P.pdf
+Scraping error for https://ccsd.net/district/pdf/4150_P.pdf: Client error: `GET https://ccsd.net/district/pdf/4150_P.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/4150.1_P.pdf: Client error: `GET https://ccsd.net/district/pdf/4150.1_P.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/4150.1_R.pdf: Client error: `GET https://ccsd.net/district/pdf/4150.1_R.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/4200_R.pdf: Client error: `GET https://ccsd.net/district/pdf/4200_R.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/4207_R.pdf: Client error: `GET https://ccsd.net/district/pdf/4207_R.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/4211_R.pdf: Client error: `GET https://ccsd.net/district/pdf/4211_R.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/4212_R.pdf: Client error: `GET https://ccsd.net/district/pdf/4212_R.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/4213_R.pdf: Client error: `GET https://ccsd.net/district/pdf/4213_R.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/4214_R.pdf: Client error: `GET https://ccsd.net/district/pdf/4214_R.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/4220_R.pdf: Client error: `GET https://ccsd.net/district/pdf/4220_R.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Visited 390 pages, current depth: 33, URL: https://ccsd.net/district/pdf/4221_R.pdf
+Scraping error for https://ccsd.net/district/pdf/4221_R.pdf: Client error: `GET https://ccsd.net/district/pdf/4221_R.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/4222_R.pdf: Client error: `GET https://ccsd.net/district/pdf/4222_R.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/4230_R.pdf: Client error: `GET https://ccsd.net/district/pdf/4230_R.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/4231_R.pdf: Client error: `GET https://ccsd.net/district/pdf/4231_R.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/4235_P.pdf: Client error: `GET https://ccsd.net/district/pdf/4235_P.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/4240_R.pdf: Client error: `GET https://ccsd.net/district/pdf/4240_R.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/4250_R.pdf: Client error: `GET https://ccsd.net/district/pdf/4250_R.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/4251_R.pdf: Client error: `GET https://ccsd.net/district/pdf/4251_R.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/4260_P.pdf: Client error: `GET https://ccsd.net/district/pdf/4260_P.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/4270_P.pdf: Client error: `GET https://ccsd.net/district/pdf/4270_P.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Visited 400 pages, current depth: 33, URL: https://ccsd.net/district/pdf/4280_P.pdf
+Scraping error for https://ccsd.net/district/pdf/4280_P.pdf: Client error: `GET https://ccsd.net/district/pdf/4280_P.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/4280_R.pdf: Client error: `GET https://ccsd.net/district/pdf/4280_R.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/4291_R.pdf: Client error: `GET https://ccsd.net/district/pdf/4291_R.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/4291.1_R.pdf: Client error: `GET https://ccsd.net/district/pdf/4291.1_R.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/4292_R.pdf: Client error: `GET https://ccsd.net/district/pdf/4292_R.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/4292.1_R.pdf: Client error: `GET https://ccsd.net/district/pdf/4292.1_R.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/4293_R.pdf: Client error: `GET https://ccsd.net/district/pdf/4293_R.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/4294_R.pdf: Client error: `GET https://ccsd.net/district/pdf/4294_R.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/4295_R.pdf: Client error: `GET https://ccsd.net/district/pdf/4295_R.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/4300_P.pdf: Client error: `GET https://ccsd.net/district/pdf/4300_P.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Visited 410 pages, current depth: 33, URL: https://ccsd.net/district/pdf/4310_P.pdf
+Scraping error for https://ccsd.net/district/pdf/4310_P.pdf: Client error: `GET https://ccsd.net/district/pdf/4310_P.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/4311_R.pdf: Client error: `GET https://ccsd.net/district/pdf/4311_R.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/4312_R.pdf: Client error: `GET https://ccsd.net/district/pdf/4312_R.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/4313_R.pdf: Client error: `GET https://ccsd.net/district/pdf/4313_R.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/4320_P.pdf: Client error: `GET https://ccsd.net/district/pdf/4320_P.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/4321_R.pdf: Client error: `GET https://ccsd.net/district/pdf/4321_R.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/4322_R.pdf: Client error: `GET https://ccsd.net/district/pdf/4322_R.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/4323_R.pdf: Client error: `GET https://ccsd.net/district/pdf/4323_R.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/4330_R.pdf: Client error: `GET https://ccsd.net/district/pdf/4330_R.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/4340_P.pdf: Client error: `GET https://ccsd.net/district/pdf/4340_P.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Visited 420 pages, current depth: 33, URL: https://ccsd.net/district/pdf/4341_R.pdf
+Scraping error for https://ccsd.net/district/pdf/4341_R.pdf: Client error: `GET https://ccsd.net/district/pdf/4341_R.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/4342_R.pdf: Client error: `GET https://ccsd.net/district/pdf/4342_R.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/4343_R.pdf: Client error: `GET https://ccsd.net/district/pdf/4343_R.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/4350_P.pdf: Client error: `GET https://ccsd.net/district/pdf/4350_P.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/4351_R.pdf: Client error: `GET https://ccsd.net/district/pdf/4351_R.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/4352_R.pdf: Client error: `GET https://ccsd.net/district/pdf/4352_R.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/4353_R.pdf: Client error: `GET https://ccsd.net/district/pdf/4353_R.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/4354_R.pdf: Client error: `GET https://ccsd.net/district/pdf/4354_R.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/4355_R.pdf: Client error: `GET https://ccsd.net/district/pdf/4355_R.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/4356_R.pdf: Client error: `GET https://ccsd.net/district/pdf/4356_R.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Visited 430 pages, current depth: 33, URL: https://ccsd.net/district/pdf/4357_R.pdf
+Scraping error for https://ccsd.net/district/pdf/4357_R.pdf: Client error: `GET https://ccsd.net/district/pdf/4357_R.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/4358_R.pdf: Client error: `GET https://ccsd.net/district/pdf/4358_R.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/4359_R.pdf: Client error: `GET https://ccsd.net/district/pdf/4359_R.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/4360_R.pdf: Client error: `GET https://ccsd.net/district/pdf/4360_R.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/4370_P.pdf: Client error: `GET https://ccsd.net/district/pdf/4370_P.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/4370_R.pdf: Client error: `GET https://ccsd.net/district/pdf/4370_R.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/4371_R.pdf: Client error: `GET https://ccsd.net/district/pdf/4371_R.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/4380_P.pdf: Client error: `GET https://ccsd.net/district/pdf/4380_P.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/4390_P.pdf: Client error: `GET https://ccsd.net/district/pdf/4390_P.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/4391_P.pdf: Client error: `GET https://ccsd.net/district/pdf/4391_P.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Visited 440 pages, current depth: 33, URL: https://ccsd.net/district/pdf/4393_R.pdf
+Scraping error for https://ccsd.net/district/pdf/4393_R.pdf: Client error: `GET https://ccsd.net/district/pdf/4393_R.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/5110_R.pdf: Client error: `GET https://ccsd.net/district/pdf/5110_R.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/5111_P.pdf: Client error: `GET https://ccsd.net/district/pdf/5111_P.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/5111_R.pdf: Client error: `GET https://ccsd.net/district/pdf/5111_R.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/5111.1_R.pdf: Client error: `GET https://ccsd.net/district/pdf/5111.1_R.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/5112_P.pdf: Client error: `GET https://ccsd.net/district/pdf/5112_P.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/5112_R.pdf: Client error: `GET https://ccsd.net/district/pdf/5112_R.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/5113_P.pdf: Client error: `GET https://ccsd.net/district/pdf/5113_P.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/5113_R.pdf: Client error: `GET https://ccsd.net/district/pdf/5113_R.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/5113.1_R.pdf: Client error: `GET https://ccsd.net/district/pdf/5113.1_R.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Visited 450 pages, current depth: 33, URL: https://ccsd.net/district/pdf/5113.5_R.pdf
+Scraping error for https://ccsd.net/district/pdf/5113.5_R.pdf: Client error: `GET https://ccsd.net/district/pdf/5113.5_R.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/5114_P.pdf: Client error: `GET https://ccsd.net/district/pdf/5114_P.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/5114_R.pdf: Client error: `GET https://ccsd.net/district/pdf/5114_R.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/5114.1_R.pdf: Client error: `GET https://ccsd.net/district/pdf/5114.1_R.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/5114.2_R.pdf: Client error: `GET https://ccsd.net/district/pdf/5114.2_R.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/5115_R.pdf: Client error: `GET https://ccsd.net/district/pdf/5115_R.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/5116_P.pdf: Client error: `GET https://ccsd.net/district/pdf/5116_P.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/5116_R.pdf: Client error: `GET https://ccsd.net/district/pdf/5116_R.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/5118_P.pdf: Client error: `GET https://ccsd.net/district/pdf/5118_P.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/5118_R.pdf: Client error: `GET https://ccsd.net/district/pdf/5118_R.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Visited 460 pages, current depth: 33, URL: https://ccsd.net/district/pdf/5119_P.pdf
+Scraping error for https://ccsd.net/district/pdf/5119_P.pdf: Client error: `GET https://ccsd.net/district/pdf/5119_P.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/5120_P.pdf: Client error: `GET https://ccsd.net/district/pdf/5120_P.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/5121_R.pdf: Client error: `GET https://ccsd.net/district/pdf/5121_R.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/5121.1_R.pdf: Client error: `GET https://ccsd.net/district/pdf/5121.1_R.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/5122_R.pdf: Client error: `GET https://ccsd.net/district/pdf/5122_R.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/5123_P.pdf: Client error: `GET https://ccsd.net/district/pdf/5123_P.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/5123_R.pdf: Client error: `GET https://ccsd.net/district/pdf/5123_R.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/5124_P.pdf: Client error: `GET https://ccsd.net/district/pdf/5124_P.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/5124_R.pdf: Client error: `GET https://ccsd.net/district/pdf/5124_R.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/5125_P.pdf: Client error: `GET https://ccsd.net/district/pdf/5125_P.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Visited 470 pages, current depth: 33, URL: https://ccsd.net/district/pdf/5125_R.pdf
+Scraping error for https://ccsd.net/district/pdf/5125_R.pdf: Client error: `GET https://ccsd.net/district/pdf/5125_R.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/5125.1_R.pdf: Client error: `GET https://ccsd.net/district/pdf/5125.1_R.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/5126_P.pdf: Client error: `GET https://ccsd.net/district/pdf/5126_P.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/5126_R.pdf: Client error: `GET https://ccsd.net/district/pdf/5126_R.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/5127_P.pdf: Client error: `GET https://ccsd.net/district/pdf/5127_P.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/5127_R.pdf: Client error: `GET https://ccsd.net/district/pdf/5127_R.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/5128_R.pdf: Client error: `GET https://ccsd.net/district/pdf/5128_R.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/5129_P.pdf: Client error: `GET https://ccsd.net/district/pdf/5129_P.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/5129_R.pdf: Client error: `GET https://ccsd.net/district/pdf/5129_R.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/5130_R.pdf: Client error: `GET https://ccsd.net/district/pdf/5130_R.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Visited 480 pages, current depth: 33, URL: https://ccsd.net/district/pdf/5131_P.pdf
+Scraping error for https://ccsd.net/district/pdf/5131_P.pdf: Client error: `GET https://ccsd.net/district/pdf/5131_P.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/5131_R.pdf: Client error: `GET https://ccsd.net/district/pdf/5131_R.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/5132_R.pdf: Client error: `GET https://ccsd.net/district/pdf/5132_R.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/5132.1_P.pdf: Client error: `GET https://ccsd.net/district/pdf/5132.1_P.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/5132.2_R.pdf: Client error: `GET https://ccsd.net/district/pdf/5132.2_R.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/5132.3_R.pdf: Client error: `GET https://ccsd.net/district/pdf/5132.3_R.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/5133_R.pdf: Client error: `GET https://ccsd.net/district/pdf/5133_R.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/5133.1_P.pdf: Client error: `GET https://ccsd.net/district/pdf/5133.1_P.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/5134_P.pdf: Client error: `GET https://ccsd.net/district/pdf/5134_P.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/5134_R.pdf: Client error: `GET https://ccsd.net/district/pdf/5134_R.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Visited 490 pages, current depth: 33, URL: https://ccsd.net/district/pdf/5135_P.pdf
+Scraping error for https://ccsd.net/district/pdf/5135_P.pdf: Client error: `GET https://ccsd.net/district/pdf/5135_P.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/5135.1_R.pdf: Client error: `GET https://ccsd.net/district/pdf/5135.1_R.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/5135.11_R.pdf: Client error: `GET https://ccsd.net/district/pdf/5135.11_R.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/5135.12_R.pdf: Client error: `GET https://ccsd.net/district/pdf/5135.12_R.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/5135.13_R.pdf: Client error: `GET https://ccsd.net/district/pdf/5135.13_R.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/5135.2_R.pdf: Client error: `GET https://ccsd.net/district/pdf/5135.2_R.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/5135.3_R.pdf: Client error: `GET https://ccsd.net/district/pdf/5135.3_R.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/5135.4_R.pdf: Client error: `GET https://ccsd.net/district/pdf/5135.4_R.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/5135.5_R.pdf: Client error: `GET https://ccsd.net/district/pdf/5135.5_R.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/5135.6_R.pdf: Client error: `GET https://ccsd.net/district/pdf/5135.6_R.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Visited 500 pages, current depth: 33, URL: https://ccsd.net/district/pdf/5135.61_R.pdf
+Scraping error for https://ccsd.net/district/pdf/5135.61_R.pdf: Client error: `GET https://ccsd.net/district/pdf/5135.61_R.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/5135.7_R.pdf: Client error: `GET https://ccsd.net/district/pdf/5135.7_R.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/5136_P.pdf: Client error: `GET https://ccsd.net/district/pdf/5136_P.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/5137_P.pdf: Client error: `GET https://ccsd.net/district/pdf/5137_P.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/5138_P.pdf: Client error: `GET https://ccsd.net/district/pdf/5138_P.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/5139_P.pdf: Client error: `GET https://ccsd.net/district/pdf/5139_P.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/5140_P.pdf: Client error: `GET https://ccsd.net/district/pdf/5140_P.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/5141_R.pdf: Client error: `GET https://ccsd.net/district/pdf/5141_R.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/5141.1_R.pdf: Client error: `GET https://ccsd.net/district/pdf/5141.1_R.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/5141.2_R.pdf: Client error: `GET https://ccsd.net/district/pdf/5141.2_R.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Visited 510 pages, current depth: 33, URL: https://ccsd.net/district/pdf/5141.3_R.pdf
+Scraping error for https://ccsd.net/district/pdf/5141.3_R.pdf: Client error: `GET https://ccsd.net/district/pdf/5141.3_R.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/5142_R.pdf: Client error: `GET https://ccsd.net/district/pdf/5142_R.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/5143_R.pdf: Client error: `GET https://ccsd.net/district/pdf/5143_R.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/5144_R.pdf: Client error: `GET https://ccsd.net/district/pdf/5144_R.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/5145_R.pdf: Client error: `GET https://ccsd.net/district/pdf/5145_R.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/5145.1_R.pdf: Client error: `GET https://ccsd.net/district/pdf/5145.1_R.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/5146_P.pdf: Client error: `GET https://ccsd.net/district/pdf/5146_P.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/5146_R.pdf: Client error: `GET https://ccsd.net/district/pdf/5146_R.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/5146.1_R.pdf: Client error: `GET https://ccsd.net/district/pdf/5146.1_R.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/5150_R.pdf: Client error: `GET https://ccsd.net/district/pdf/5150_R.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Visited 520 pages, current depth: 33, URL: https://ccsd.net/district/pdf/5151_R.pdf
+Scraping error for https://ccsd.net/district/pdf/5151_R.pdf: Client error: `GET https://ccsd.net/district/pdf/5151_R.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/5152_R.pdf: Client error: `GET https://ccsd.net/district/pdf/5152_R.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/5154_R.pdf: Client error: `GET https://ccsd.net/district/pdf/5154_R.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/5156_R.pdf: Client error: `GET https://ccsd.net/district/pdf/5156_R.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/5157_R.pdf: Client error: `GET https://ccsd.net/district/pdf/5157_R.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/6110_P.pdf: Client error: `GET https://ccsd.net/district/pdf/6110_P.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/6110_R.pdf: Client error: `GET https://ccsd.net/district/pdf/6110_R.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/6111_R.pdf: Client error: `GET https://ccsd.net/district/pdf/6111_R.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/6112_R.pdf: Client error: `GET https://ccsd.net/district/pdf/6112_R.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/6113.1_P.pdf: Client error: `GET https://ccsd.net/district/pdf/6113.1_P.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Visited 530 pages, current depth: 33, URL: https://ccsd.net/district/pdf/6113.2_P.pdf
+Scraping error for https://ccsd.net/district/pdf/6113.2_P.pdf: Client error: `GET https://ccsd.net/district/pdf/6113.2_P.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/6113.2_R.pdf: Client error: `GET https://ccsd.net/district/pdf/6113.2_R.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/6113.3_P.pdf: Client error: `GET https://ccsd.net/district/pdf/6113.3_P.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/6113.3_R.pdf: Client error: `GET https://ccsd.net/district/pdf/6113.3_R.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/6113.4_P.pdf: Client error: `GET https://ccsd.net/district/pdf/6113.4_P.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/6114_P.pdf: Client error: `GET https://ccsd.net/district/pdf/6114_P.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/6120_P.pdf: Client error: `GET https://ccsd.net/district/pdf/6120_P.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/6121_P.pdf: Client error: `GET https://ccsd.net/district/pdf/6121_P.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/6121_R.pdf: Client error: `GET https://ccsd.net/district/pdf/6121_R.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/6122_R.pdf: Client error: `GET https://ccsd.net/district/pdf/6122_R.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Visited 540 pages, current depth: 33, URL: https://ccsd.net/district/pdf/6122.1_R.pdf
+Scraping error for https://ccsd.net/district/pdf/6122.1_R.pdf: Client error: `GET https://ccsd.net/district/pdf/6122.1_R.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/6123_P.pdf: Client error: `GET https://ccsd.net/district/pdf/6123_P.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/6123_R.pdf: Client error: `GET https://ccsd.net/district/pdf/6123_R.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/6124.1_R.pdf: Client error: `GET https://ccsd.net/district/pdf/6124.1_R.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/6124.2_P.pdf: Client error: `GET https://ccsd.net/district/pdf/6124.2_P.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/6124.2_R.pdf: Client error: `GET https://ccsd.net/district/pdf/6124.2_R.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/6124.3_P.pdf: Client error: `GET https://ccsd.net/district/pdf/6124.3_P.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/6124.4_P.pdf: Client error: `GET https://ccsd.net/district/pdf/6124.4_P.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/6130_P.pdf: Client error: `GET https://ccsd.net/district/pdf/6130_P.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/6130_R.pdf: Client error: `GET https://ccsd.net/district/pdf/6130_R.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Visited 550 pages, current depth: 33, URL: https://ccsd.net/district/pdf/6142_P.pdf
+Scraping error for https://ccsd.net/district/pdf/6142_P.pdf: Client error: `GET https://ccsd.net/district/pdf/6142_P.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/6142_R.pdf: Client error: `GET https://ccsd.net/district/pdf/6142_R.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/6143_P.pdf: Client error: `GET https://ccsd.net/district/pdf/6143_P.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/6143_R.pdf: Client error: `GET https://ccsd.net/district/pdf/6143_R.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/6144_P.pdf: Client error: `GET https://ccsd.net/district/pdf/6144_P.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/6144_R.pdf: Client error: `GET https://ccsd.net/district/pdf/6144_R.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/6150_P.pdf: Client error: `GET https://ccsd.net/district/pdf/6150_P.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/6150_R.pdf: Client error: `GET https://ccsd.net/district/pdf/6150_R.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/6150.1_P.pdf: Client error: `GET https://ccsd.net/district/pdf/6150.1_P.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/6150.1_R.pdf: Client error: `GET https://ccsd.net/district/pdf/6150.1_R.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Visited 560 pages, current depth: 33, URL: https://ccsd.net/district/pdf/6153_P.pdf
+Scraping error for https://ccsd.net/district/pdf/6153_P.pdf: Client error: `GET https://ccsd.net/district/pdf/6153_P.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/6153_R.pdf: Client error: `GET https://ccsd.net/district/pdf/6153_R.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/6161_P.pdf: Client error: `GET https://ccsd.net/district/pdf/6161_P.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/6162_P.pdf: Client error: `GET https://ccsd.net/district/pdf/6162_P.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/6163_P.pdf: Client error: `GET https://ccsd.net/district/pdf/6163_P.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/6164_P.pdf: Client error: `GET https://ccsd.net/district/pdf/6164_P.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/6165_P.pdf: Client error: `GET https://ccsd.net/district/pdf/6165_P.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/6171_P.pdf: Client error: `GET https://ccsd.net/district/pdf/6171_P.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/6171_R.pdf: Client error: `GET https://ccsd.net/district/pdf/6171_R.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/6172_R.pdf: Client error: `GET https://ccsd.net/district/pdf/6172_R.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Visited 570 pages, current depth: 33, URL: https://ccsd.net/district/pdf/6173_P.pdf
+Scraping error for https://ccsd.net/district/pdf/6173_P.pdf: Client error: `GET https://ccsd.net/district/pdf/6173_P.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/6174_P.pdf: Client error: `GET https://ccsd.net/district/pdf/6174_P.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/6174_R.pdf: Client error: `GET https://ccsd.net/district/pdf/6174_R.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/6200_P.pdf: Client error: `GET https://ccsd.net/district/pdf/6200_P.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/6200_R.pdf: Client error: `GET https://ccsd.net/district/pdf/6200_R.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/7110_R.pdf: Client error: `GET https://ccsd.net/district/pdf/7110_R.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/7111_P.pdf: Client error: `GET https://ccsd.net/district/pdf/7111_P.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/7111_R.pdf: Client error: `GET https://ccsd.net/district/pdf/7111_R.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/7112_R.pdf: Client error: `GET https://ccsd.net/district/pdf/7112_R.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/7113_R.pdf: Client error: `GET https://ccsd.net/district/pdf/7113_R.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Visited 580 pages, current depth: 33, URL: https://ccsd.net/district/pdf/7114_P.pdf
+Scraping error for https://ccsd.net/district/pdf/7114_P.pdf: Client error: `GET https://ccsd.net/district/pdf/7114_P.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/7120_R.pdf: Client error: `GET https://ccsd.net/district/pdf/7120_R.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/7121_R.pdf: Client error: `GET https://ccsd.net/district/pdf/7121_R.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/7122_P.pdf: Client error: `GET https://ccsd.net/district/pdf/7122_P.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/7124_P.pdf: Client error: `GET https://ccsd.net/district/pdf/7124_P.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/7124_R.pdf: Client error: `GET https://ccsd.net/district/pdf/7124_R.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/7124.1_R.pdf: Client error: `GET https://ccsd.net/district/pdf/7124.1_R.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/7131_R.pdf: Client error: `GET https://ccsd.net/district/pdf/7131_R.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/7210_P.pdf: Client error: `GET https://ccsd.net/district/pdf/7210_P.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/7210_R.pdf: Client error: `GET https://ccsd.net/district/pdf/7210_R.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Visited 590 pages, current depth: 33, URL: https://ccsd.net/district/pdf/7211_R.pdf
+Scraping error for https://ccsd.net/district/pdf/7211_R.pdf: Client error: `GET https://ccsd.net/district/pdf/7211_R.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/7223_P.pdf: Client error: `GET https://ccsd.net/district/pdf/7223_P.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/7224_R.pdf: Client error: `GET https://ccsd.net/district/pdf/7224_R.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/7310_R.pdf: Client error: `GET https://ccsd.net/district/pdf/7310_R.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/7341_R.pdf: Client error: `GET https://ccsd.net/district/pdf/7341_R.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/7510_R.pdf: Client error: `GET https://ccsd.net/district/pdf/7510_R.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/7611_P.pdf: Client error: `GET https://ccsd.net/district/pdf/7611_P.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Visited 600 pages, current depth: 35, URL: https://ccsd.net/district/title-1/faq.php
+Visited 610 pages, current depth: 41, URL: https://ccsd.net/district/title-1/pdf/TitleI-ParentInvolvment-ENG.pdf
+Visited 620 pages, current depth: 31, URL: https://ccsd.net/schools/contact-information/0374
+Visited 630 pages, current depth: 31, URL: https://ccsd.net/schools/contact-information/0337
+Visited 640 pages, current depth: 31, URL: https://ccsd.net/schools/contact-information/0275
+Visited 650 pages, current depth: 31, URL: https://ccsd.net/schools/contact-information/0410
+Visited 660 pages, current depth: 31, URL: https://ccsd.net/schools/contact-information/0611
+Visited 670 pages, current depth: 31, URL: https://ccsd.net/schools/contact-information/0367
+Visited 680 pages, current depth: 31, URL: https://ccsd.net/schools/contact-information/0942
+Visited 690 pages, current depth: 31, URL: https://ccsd.net/schools/contact-information/0360
+Visited 700 pages, current depth: 31, URL: https://ccsd.net/schools/contact-information/0203
+Visited 710 pages, current depth: 31, URL: https://ccsd.net/schools/contact-information/0283
+Visited 720 pages, current depth: 31, URL: https://ccsd.net/schools/contact-information/0515
+Visited 730 pages, current depth: 31, URL: https://ccsd.net/schools/contact-information/0701
+Visited 740 pages, current depth: 31, URL: https://ccsd.net/schools/contact-information/0529
+Visited 750 pages, current depth: 31, URL: https://ccsd.net/schools/contact-information/0229
+Visited 760 pages, current depth: 31, URL: https://ccsd.net/schools/contact-information/0822
+Visited 770 pages, current depth: 31, URL: https://ccsd.net/schools/contact-information/0420
+Visited 780 pages, current depth: 31, URL: https://ccsd.net/schools/contact-information/0778
+Visited 790 pages, current depth: 31, URL: https://ccsd.net/schools/contact-information/0273
+Visited 800 pages, current depth: 31, URL: https://ccsd.net/schools/contact-information/0502
+Visited 810 pages, current depth: 31, URL: https://ccsd.net/schools/contact-information/0512
+Visited 820 pages, current depth: 31, URL: https://ccsd.net/schools/contact-information/0272
+Visited 830 pages, current depth: 31, URL: https://ccsd.net/schools/contact-information/0322
+Visited 840 pages, current depth: 31, URL: https://ccsd.net/schools/contact-information/0902
+Visited 850 pages, current depth: 31, URL: https://ccsd.net/schools/contact-information/0925
+Visited 860 pages, current depth: 31, URL: https://ccsd.net/schools/contact-information/0312
+Visited 870 pages, current depth: 31, URL: https://ccsd.net/schools/contact-information/0543
+Visited 880 pages, current depth: 31, URL: https://ccsd.net/schools/contact-information/0927
+Visited 890 pages, current depth: 31, URL: https://ccsd.net/schools/contact-information/0947
+Visited 900 pages, current depth: 31, URL: https://ccsd.net/schools/contact-information/0940
+Visited 910 pages, current depth: 31, URL: https://ccsd.net/schools/contact-information/0446
+Visited 920 pages, current depth: 31, URL: https://ccsd.net/schools/contact-information/0483
+Visited 930 pages, current depth: 31, URL: https://ccsd.net/schools/contact-information/0215
+Visited 940 pages, current depth: 31, URL: https://ccsd.net/schools/contact-information/0365
+Visited 950 pages, current depth: 31, URL: https://ccsd.net/schools/contact-information/0462
+Visited 960 pages, current depth: 37, URL: https://ccsd.net/departments/operations-support-unit/facilities-division
+Visited 970 pages, current depth: 47, URL: https://ccsd.net/departments/operations-support-unit/resources
+Visited 980 pages, current depth: 50, URL: https://ccsd.net/departments/budget-finance-department/publications
+Visited 990 pages, current depth: 47, URL: https://ccsd.net/divisions/technology-information-systems-services/technical-resources
+Visited 1000 pages, current depth: 43, URL: https://ccsd.net/district/directory/risk-management-department
+Visited 1010 pages, current depth: 39, URL: https://ccsd.net/parents/resources/pdf/infinite-campus/CampusParent-How-to-Access.pdf
+Visited 1020 pages, current depth: 41, URL: https://ccsd.net/district/calendar/pdf/2024-2025-school-calendar-staff-updated-12-20-23.pdf
+Scraping error for https://ccsd.net/district/backtoschool/course-single.html: Client error: `GET https://ccsd.net/district/backtoschool/course-single.html` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/backtoschool/team-single.html: Client error: `GET https://ccsd.net/district/backtoschool/team-single.html` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Visited 1030 pages, current depth: 39, URL: https://ccsd.net/district/policies-regulations/pdf/5139_P.pdf
+Visited 1040 pages, current depth: 34, URL: https://ccsd.net/departments/operations-support-unit/../budget-finance-department
+Scraping error for https://ccsd.net/departments/operations-support-unit/../schools-directory.php: Client error: `GET https://ccsd.net/departments/operations-support-unit/../schools-directory.php` resulted in a `404 Not Found` response:
+File not found.
+
+
+Scraping error for https://ccsd.net/departments/operations-support-unit/../admin-directory.php: Client error: `GET https://ccsd.net/departments/operations-support-unit/../admin-directory.php` resulted in a `404 Not Found` response:
+File not found.
+
+
+Visited 1050 pages, current depth: 33, URL: https://ccsd.net/benefits
+Visited 1060 pages, current depth: 33, URL: https://ccsd.net/departments/accounting-department/popular-annual-financial-report
+Visited 1070 pages, current depth: 34, URL: https://ccsd.net/resources/accounting-department/2017-pafr.pdf
+Visited 1080 pages, current depth: 34, URL: https://ccsd.net/resources/accounting-department/cafr/2024/basic-financial.pdf
+Visited 1090 pages, current depth: 34, URL: https://ccsd.net/departments/accounting-department/annual-comprehensive-financial-report?y=2023
+Visited 1100 pages, current depth: 35, URL: https://ccsd.net/resources/accounting-department/cafr/2023/major-enterprise-fund.pdf
+Visited 1110 pages, current depth: 36, URL: https://ccsd.net/resources/accounting-department/cafr/2022/basic-financial.pdf
+Visited 1120 pages, current depth: 36, URL: https://ccsd.net/departments/accounting-department/annual-comprehensive-financial-report?y=2021
+Visited 1130 pages, current depth: 37, URL: https://ccsd.net/resources/accounting-department/cafr/2021/major-enterprise-fund.pdf
+Visited 1140 pages, current depth: 31, URL: https://ccsd.net/departments/safe-and-respectful-learning-environments-and-opportunities-division
+Visited 1150 pages, current depth: 37, URL: https://ccsd.net/departments/police-services/about-us
+Visited 1160 pages, current depth: 47, URL: https://ccsd.net/departments/police-services/traffic
+Visited 1170 pages, current depth: 50, URL: https://ccsd.net/departments/police-services/contact-us
+Scraping error for https://ccsd.net/departments/police-services/ag.nv.gov: Client error: `GET https://ccsd.net/departments/police-services/ag.nv.gov` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/departments/police-services/nhp.nv.gov: Client error: `GET https://ccsd.net/departments/police-services/nhp.nv.gov` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/departments/police-services/clarkcountynv.gov: Client error: `GET https://ccsd.net/departments/police-services/clarkcountynv.gov` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Visited 1180 pages, current depth: 34, URL: https://ccsd.net/divisions/education-services-division/schools
+Visited 1190 pages, current depth: 40, URL: https://ccsd.net/resources/education-services-division/dresscodeenglish.pdf
+Scraping error for https://ccsd.net/district/policies-regulations/pdf/5114.2_R.pdfi: Client error: `GET https://ccsd.net/district/policies-regulations/pdf/5114.2_R.pdfi` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Visited 1200 pages, current depth: 38, URL: https://ccsd.net/resources/education-services-division/Parent_Guide_to_Homeschool.pdf
+Visited 1210 pages, current depth: 36, URL: https://ccsd.net/resources/education-services-division/burk-horizon-sunset-sw.pdf
+Visited 1220 pages, current depth: 37, URL: https://ccsd.net/departments/purchasing-warehousing/donations
+Visited 1230 pages, current depth: 47, URL: https://ccsd.net/departments/purchasing-warehousing/mwdbe-certification-agencies
+Visited 1240 pages, current depth: 50, URL: https://ccsd.net/district/directory/maintenance-purchasing
+Visited 1250 pages, current depth: 45, URL: https://ccsd.net/resources/purchasing-warehousing/po-terms-and-conditions-12-30-22.pdf
+Visited 1260 pages, current depth: 45, URL: https://ccsd.net/district/policies-regulations/pdf/7211_R.pdf
+Visited 1270 pages, current depth: 40, URL: https://ccsd.net/resources/purchasing-warehousing/vendor-guide.pdf
+Visited 1280 pages, current depth: 40, URL: https://ccsd.net/resources/purchasing-warehousing/catalog-help-guide-200819.pdf
+Visited 1290 pages, current depth: 38, URL: https://ccsd.net/district/policies-regulations/pdf/3241_R.pdf
+Visited 1300 pages, current depth: 30, URL: https://ccsd.net/divisions/curriculum-professional-development-division
+Scraping error for https://ccsd.net/community/pdf/community-resources-2023-2023.pdf: Client error: `GET https://ccsd.net/community/pdf/community-resources-2023-2023.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/students/pdf/2366.18-DBR-TriFoldBrochure-BullyingAwareness-English.pdf: Client error: `GET https://ccsd.net/students/pdf/2366.18-DBR-TriFoldBrochure-BullyingAwareness-English.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/students/pdf/2366.18-DBR-TriFoldBrochure-BullyingAwareness-Spanish.pdf: Client error: `GET https://ccsd.net/students/pdf/2366.18-DBR-TriFoldBrochure-BullyingAwareness-Spanish.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/students/pdf/BullyingResourcesForFamiliesENGLISH.pdf: Client error: `GET https://ccsd.net/students/pdf/BullyingResourcesForFamiliesENGLISH.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/students/pdf/BullyingResourcesForFamiliesSPANISH.pdf: Client error: `GET https://ccsd.net/students/pdf/BullyingResourcesForFamiliesSPANISH.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Visited 1310 pages, current depth: 25, URL: https://ccsd.net/employees/resources/pdf/employee-quick-reference-card.pdf
+Scraping error for https://ccsd.net/employees/canvas-employees: Client error: `GET https://ccsd.net/employees/canvas-employees` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/employees/canvas-students: Client error: `GET https://ccsd.net/employees/canvas-students` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/100-Ways-to-Raise-a-READER.pdf: Client error: `GET https://ccsd.net/district/pdf/100-Ways-to-Raise-a-READER.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Visited 1320 pages, current depth: 19, URL: https://ccsd.net/folder
+Scraping error for https://ccsd.net/folder: Client error: `GET https://ccsd.net/folder/` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/events: Client error: `GET https://ccsd.net/events/` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/find-a-magnet-school: Client error: `GET https://ccsd.net/find-a-magnet-school/` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/application-information: Client error: `GET https://ccsd.net/application-information/` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/selection-process: Client error: `GET https://ccsd.net/selection-process/` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/application-process: Client error: `GET https://ccsd.net/application-process/` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/about-us: Client error: `GET https://ccsd.net/about-us/` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Visited 1330 pages, current depth: 19, URL: https://ccsd.net/transportation
+Scraping error for https://ccsd.net/elementary-school-maps: Client error: `GET https://ccsd.net/elementary-school-maps/` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/middle-school-maps: Client error: `GET https://ccsd.net/middle-school-maps/` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/high-school-maps: Client error: `GET https://ccsd.net/high-school-maps/` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/career-and-technical-academies-maps: Client error: `GET https://ccsd.net/career-and-technical-academies-maps/` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Visited 1340 pages, current depth: 19, URL: https://ccsd.net/schools/accountability-reports/pdf/nevadareportcard_2023-Spanish.pdf
+Scraping error for https://ccsd.net/district/gibson2011/Educational_and_Operational_Efficiency_Study_of_the_Clark_C.pdf: Client error: `GET https://ccsd.net/district/gibson2011/Educational_and_Operational_Efficiency_Study_of_the_Clark_C.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/gibson2011/Executive_Summary-Stand_alone.pdf: Client error: `GET https://ccsd.net/district/gibson2011/Executive_Summary-Stand_alone.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/gibson2011/0-Front_matter.pdf: Client error: `GET https://ccsd.net/district/gibson2011/0-Front_matter.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/gibson2011/1-Chapter_1-Executive_Summary.pdf: Client error: `GET https://ccsd.net/district/gibson2011/1-Chapter_1-Executive_Summary.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/gibson2011/2-Chapter_2-Student_Performance_Analysis.pdf: Client error: `GET https://ccsd.net/district/gibson2011/2-Chapter_2-Student_Performance_Analysis.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/gibson2011/3-Chapter_3-Academic_Programs_and_Services.pdf: Client error: `GET https://ccsd.net/district/gibson2011/3-Chapter_3-Academic_Programs_and_Services.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/gibson2011/4-Chapter_4-Budget_Process_and_Transparency.pdf: Client error: `GET https://ccsd.net/district/gibson2011/4-Chapter_4-Budget_Process_and_Transparency.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/gibson2011/5-Chapter_5_Operational_Cost_Efficiency_Review.pdf: Client error: `GET https://ccsd.net/district/gibson2011/5-Chapter_5_Operational_Cost_Efficiency_Review.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Visited 1350 pages, current depth: 20, URL: https://ccsd.net/district/gibson2011/6-References.pdf
+Scraping error for https://ccsd.net/district/gibson2011/6-References.pdf: Client error: `GET https://ccsd.net/district/gibson2011/6-References.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/gibson2011/Analysis_of_Student_Performance.pdf: Client error: `GET https://ccsd.net/district/gibson2011/Analysis_of_Student_Performance.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/gibson2011/Comparative_Analysis.pdf: Client error: `GET https://ccsd.net/district/gibson2011/Comparative_Analysis.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/gibson2011/Responses_to_Board_Member_Questions_Regarding_Gibson_Report.pdf: Client error: `GET https://ccsd.net/district/gibson2011/Responses_to_Board_Member_Questions_Regarding_Gibson_Report.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Visited 1360 pages, current depth: 15, URL: https://ccsd.net/students/resources/pdf/curriculum/CCSDCurriculumOverview_2025–2026_Grades9–12_Spanish.pdf
+Scraping error for https://ccsd.net/district/schools-directory.php: Client error: `GET https://ccsd.net/district/schools-directory.php` resulted in a `404 Not Found` response:
+File not found.
+
+
+Visited 1370 pages, current depth: 9, URL: https://ccsd.net/district/admin-directory.php
+Scraping error for https://ccsd.net/district/admin-directory.php: Client error: `GET https://ccsd.net/district/admin-directory.php` resulted in a `404 Not Found` response:
+File not found.
+
+
+Scraping error for https://ccsd.net/schools/search: Client error: `GET https://ccsd.net/schools/search/` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/students/pdf/SafeVoice-How-to-Report.pdf: Client error: `GET https://ccsd.net/students/pdf/SafeVoice-How-to-Report.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/students/pdf/SafeVoice-3-5-presentation.pdf: Client error: `GET https://ccsd.net/students/pdf/SafeVoice-3-5-presentation.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/students/pdf/SafeVoice-6-12-presentation.pdf: Client error: `GET https://ccsd.net/students/pdf/SafeVoice-6-12-presentation.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/students/pdf/SafeVoice-Introduction.pdf: Client error: `GET https://ccsd.net/students/pdf/SafeVoice-Introduction.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/students/pdf/parent-letter.pdf: Client error: `GET https://ccsd.net/students/pdf/parent-letter.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/students/pdf/parent-letter-spanish.pdf: Client error: `GET https://ccsd.net/students/pdf/parent-letter-spanish.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/students/pdf/parent-faq.pdf: Client error: `GET https://ccsd.net/students/pdf/parent-faq.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/students/pdf/parent-faq-spanish.pdf: Client error: `GET https://ccsd.net/students/pdf/parent-faq-spanish.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Visited 1380 pages, current depth: 6, URL: https://ccsd.net/district/pdf/2024-2025-school-calendar-students.pdf
+Scraping error for https://ccsd.net/district/pdf/2024-2025-school-calendar-students.pdf: Client error: `GET https://ccsd.net/district/pdf/2024-2025-school-calendar-students.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/2025-2026-school-calendar-students-updated-final.pdf: Client error: `GET https://ccsd.net/district/pdf/2025-2026-school-calendar-students-updated-final.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/2025-2026-school-calendar-students-updated-final-Spanish.pdf: Client error: `GET https://ccsd.net/district/pdf/2025-2026-school-calendar-students-updated-final-Spanish.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/2026-2027-school-calendar-students-updated-final.pdf: Client error: `GET https://ccsd.net/district/pdf/2026-2027-school-calendar-students-updated-final.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/2026-2027-school-calendar-students-updated-final-Spanish.pdf: Client error: `GET https://ccsd.net/district/pdf/2026-2027-school-calendar-students-updated-final-Spanish.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/2027-2028-school-calendar-students-updated-final.pdf: Client error: `GET https://ccsd.net/district/pdf/2027-2028-school-calendar-students-updated-final.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/2027-2028-school-calendar-students-updated-final-Spanish.pdf: Client error: `GET https://ccsd.net/district/pdf/2027-2028-school-calendar-students-updated-final-Spanish.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/2024-2025-school-calendar-staff-updated-12-20-23.pdf: Client error: `GET https://ccsd.net/district/pdf/2024-2025-school-calendar-staff-updated-12-20-23.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/2025-2026-school-calendar-staff-updated-final.pdf: Client error: `GET https://ccsd.net/district/pdf/2025-2026-school-calendar-staff-updated-final.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/2025-2026-school-calendar-staff-updated-final-Spanish.pdf: Client error: `GET https://ccsd.net/district/pdf/2025-2026-school-calendar-staff-updated-final-Spanish.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Visited 1390 pages, current depth: 6, URL: https://ccsd.net/district/pdf/2026-2027-school-calendar-staff-updated-final.pdf
+Scraping error for https://ccsd.net/district/pdf/2026-2027-school-calendar-staff-updated-final.pdf: Client error: `GET https://ccsd.net/district/pdf/2026-2027-school-calendar-staff-updated-final.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/2026-2027-school-calendar-staff-updated-final-Spanish.pdf: Client error: `GET https://ccsd.net/district/pdf/2026-2027-school-calendar-staff-updated-final-Spanish.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/2027-2028-school-calendar-staff-updated-final.pdf: Client error: `GET https://ccsd.net/district/pdf/2027-2028-school-calendar-staff-updated-final.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Scraping error for https://ccsd.net/district/pdf/2027-2028-school-calendar-staff-updated-final-Spanish.pdf: Client error: `GET https://ccsd.net/district/pdf/2027-2028-school-calendar-staff-updated-final-Spanish.pdf` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Comp (truncated...)
+
+Visited 1400 pages, current depth: 6, URL: https://ccsd.net/employees/prospective/information/recruitment-schedule
+Completed scrape. Total pages visited: 1405
+
+=== SCRAPING COMPLETED ===
+Total pages scraped: 988
+Duration: 178 seconds (2.97 minutes)
+Average: 5.55 pages per second
+Completed at: 2025-10-28 17:41:48
