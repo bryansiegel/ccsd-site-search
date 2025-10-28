@@ -1,0 +1,15 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:ccsd.net)",
+      "Bash(php:*)",
+      "Bash(mkdir:*)",
+      "Bash(mv:*)",
+      "Bash(rmdir:*)",
+      "Bash(rm:*)",
+      "Bash(mysql:*)",
+      "Bash(timeout:*)"
+    ],
+    "deny": []
+  }
+}
