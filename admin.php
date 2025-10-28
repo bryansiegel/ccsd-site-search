@@ -715,11 +715,11 @@ $stats = $db->fetchOne("
                             <td><?= $website['last_scraped'] ? date('M j, Y H:i', strtotime($website['last_scraped'])) : 'Never' ?></td>
                             <td><?= htmlspecialchars($website['created_by_name'] ?? 'Unknown') ?></td>
                             <td>
-                                <form method="POST" style="display: inline-block; margin-right: 5px;">
+                                <!-- <form method="POST" style="display: inline-block; margin-right: 5px;">
                                     <input type="hidden" name="action" value="scrape_website">
                                     <input type="hidden" name="website_id" value="<?= $website['id'] ?>">
                                     <button type="submit" class="btn-scrape" onclick="return confirm('Start scraping <?= htmlspecialchars($website['name']) ?>? This may take a few minutes.')">Scrape</button>
-                                </form>
+                                </form> -->
                                 <button type="button" class="btn-edit" style="margin-right: 5px;" onclick="editWebsite(<?= $website['id'] ?>, '<?= htmlspecialchars($website['name'], ENT_QUOTES) ?>', '<?= htmlspecialchars($website['url'], ENT_QUOTES) ?>', <?= $website['max_depth'] ?>, <?= $website['scrape_frequency'] ?>)">Edit</button>
                                 <form method="POST" style="display: inline-block;">
                                     <input type="hidden" name="action" value="delete_website">
@@ -886,6 +886,7 @@ $stats = $db->fetchOne("
 
         <?php
         // Show recent scrape activity
+        /*
         $recentScrapes = $db->fetchAll("
             SELECT w.name, w.url, w.last_scraped, 
                    (SELECT COUNT(*) FROM scraped_pages WHERE website_id = w.id) as total_pages
@@ -931,6 +932,7 @@ $stats = $db->fetchOne("
         </div>
         <?php endif; ?>
     </div>
+        <?php */ ?>
 
     <!-- Edit Website Modal -->
     <div id="editModal" class="modal">
